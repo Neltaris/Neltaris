@@ -4,7 +4,7 @@
 
 🎯 Currently working with **React**, **Next.js**, **Node.js**, and **SQLite**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
 
-🎮 Passionate about video games and indie game development. I'm especially interested in designing complex mechanics and game systems (yes, even building game databases from scratch!).
+🎮 Passionate about video games and indie game development. I bring a game developer’s mindset to fullstack development — focusing on systems design, responsiveness, and creating engaging, user-driven experiences.
 
 🚀 Open to opportunities that help me grow as a developer and contribute to meaningful projects.
 
@@ -15,20 +15,41 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/-bcrypt-003B57?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/-dotenv-000000?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongodb&logoColor=white&style=for-the-badge)
 
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-1F1F1F?logo=thunderclient&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge)
+
+### OS & Platforms
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -36,15 +57,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-link-here)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your@email.com)
+[![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://neltaris.itch.io/)
+
 
 ---
 
 ## ⚙️ Current Projects
 
-- 🕹️ Building a video game management app that integrates a local database with an external API (RAWG).
-- ✨ Features include smart search, per-user game collections, and data caching.
-- 🔒 Exploring authentication, API rate-limiting strategies, and backend error handling.
+- 🕹️ Building a social app for gamers to connect, chat, and discover others with similar interests.
+- 🔍 Includes game search powered by a local database and the RAWG API.
+- 🔒 Working on authentication, caching, and robust backend handling to support future scalability.
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+"Make it work. Make it right. Make it fast." – Kent Beck
