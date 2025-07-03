@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 👋 Hello there! I'm Carlos!
 
 🧠 I'm Carlos, a Junior Full Stack Developer, always learning and building. I love creating useful, intuitive, and efficient applications.
 
