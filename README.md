@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Carlos!
 
-🧠 I'm Carlos, a Junior Full Stack Developer, always learning and building. I love creating useful, intuitive, and efficient applications.
+🧠 I'm a Junior Full Stack Developer, always learning and building. I love creating useful, intuitive, and efficient applications.
 
 🎯 Currently working with **React**, **Next.js**, **Node.js**, and **SQLite**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
 
