@@ -1,15 +1,12 @@
-# 👋 Hi, I'm Carlos
+# 👋 Hello there!
 
-<table>
-<tr>
-  <td align="left">
-    I'm a Junior Full Stack Developer passionate about building web applications and game-related tools, always learning and experimenting with new tech.
-  </td>
-  <td align="right">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React Logo" width="80"/>
-  </td>
-</tr>
-</table>
+🧠 I'm Carlos, a Junior Full Stack Developer, always learning and building. I love creating useful, intuitive, and efficient applications.
+
+🎯 Currently working with **React**, **Next.js**, **Node.js**, and **SQLite**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
+
+🎮 Passionate about video games and indie game development. I'm especially interested in designing complex mechanics and game systems (yes, even building game databases from scratch!).
+
+🚀 Open to opportunities that help me grow as a developer and contribute to meaningful projects.
 
 ---
 
