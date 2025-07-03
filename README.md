@@ -59,7 +59,7 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)]([https://www.linkedin.com/in/carlos-vinals-serrano])
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/carlos-vinals-serrano)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:stackshiptrooper@gmail.com)
 [![itch.io](https://img.shields.io/badge/-itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://neltaris.itch.io/)
 
