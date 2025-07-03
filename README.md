@@ -4,7 +4,7 @@
 
 🎯 Currently working with **React**, **Next.js**, **Node.js**, and **SQLite**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
 
-🎮 Passionate about video games and indie game development. I'm especially interested in designing complex mechanics and game systems (yes, even building game databases from scratch!).
+🎮 Passionate about video games and indie game development. I bring a game developer’s mindset to fullstack development — focusing on systems design, responsiveness, and creating engaging, user-driven experiences.
 
 🚀 Open to opportunities that help me grow as a developer and contribute to meaningful projects.
 
