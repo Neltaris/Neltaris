@@ -27,7 +27,6 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
 ![bcrypt](https://img.shields.io/badge/-bcrypt-003B57?style=for-the-badge)
 ![dotenv](https://img.shields.io/badge/-dotenv-000000?style=for-the-badge)
@@ -64,9 +63,9 @@
 
 ## ⚙️ Current Projects
 
-- 🕹️ Building a social app for gamers to connect, chat, and discover others with similar interests.
-- 🔍 Includes game search powered by a local database and the RAWG API.
-- 🔒 Working on authentication, caching, and robust backend handling to support future scalability.
+- 🕹️ Building a social app for gamers to connect, chat, and discover others with similar interests. 
+- 🧾 Developing a receipt reader app using OCR to scan and extract structured data from shopping tickets.  
+
 
 ---
 
