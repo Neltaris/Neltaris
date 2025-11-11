@@ -2,7 +2,7 @@
 
 🧠 I'm a Junior Full Stack Developer, always learning and building. I love creating useful, intuitive, and efficient applications.
 
-🎯 Currently working with **React**, **Next.js**, **Node.js**, and **SQLite**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
+🎯 Currently working with **React**, **Next.js**, **Node.js**, and **PostgreSQL**, building full-stack projects with custom backend logic, API integrations, and frontend user experiences.
 
 🎮 Passionate about video games and indie game development. I bring a game developer’s mindset to fullstack development — focusing on systems design, responsiveness, and creating engaging, user-driven experiences.
 
